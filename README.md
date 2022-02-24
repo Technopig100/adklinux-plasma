@@ -1,0 +1,1 @@
+# ADKLinux desktop settings plasma
