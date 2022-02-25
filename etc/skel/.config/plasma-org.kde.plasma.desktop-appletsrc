@@ -105,7 +105,7 @@ wallpaperplugin=org.kde.image
 PreloadWeight=0
 
 [Containments][22][Wallpaper][org.kde.image][General]
-Image=file:///home/jacob/.config/variety/Downloaded/wallhaven_cold_mountain_snow_ice/wallhaven-43l3e6.jpg
+Image=file:///usr/share/wallpapers/adk-linux-wallpaper/Adk-simple-dark.jpg
 
 [Containments][26]
 ItemGeometries-1600x900=
@@ -128,7 +128,7 @@ ToolBoxButtonX=362
 ToolBoxButtonY=40
 
 [Containments][26][Wallpaper][org.kde.image][General]
-Image=file:///home/jacob/.config/variety/Downloaded/wallhaven_cold_mountain_snow_ice/wallhaven-43l3e6.jpg
+Image=file:///usr/share/wallpapers/adk-linux-wallpaper/Adk-simple-dark.jpg
 
 [Containments][7]
 activityId=

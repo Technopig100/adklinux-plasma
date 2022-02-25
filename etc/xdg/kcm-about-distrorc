@@ -1,4 +1,4 @@
 [General]
-Name=AdkLinux
-LogoPath=/usr/share/icons/Flat-Remix-Blue-Dark/apps/scalable/start-here-adklinux.svg
+Name=Adk-Linux
+LogoPath=/etc/xdg/distributor-logo-adklinux.svg
 Website=https://github.com/Technopig100/
