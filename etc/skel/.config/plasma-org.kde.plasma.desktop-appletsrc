@@ -21,9 +21,15 @@ plugin=org.kde.plasma.kicker
 [Containments][2][Applets][38][Configuration]
 PreloadWeight=100
 
+[Containments][2][Applets][38][Configuration][ConfigDialog]
+DialogHeight=600
+DialogWidth=800
+
 [Containments][2][Applets][38][Configuration][General]
+customButtonImage=desktop-environment-adklinux
 favoritesPortedToKAstats=true
 hiddenApplications=hp-uiscan.desktop,stoken-gui.desktop,stoken-gui-small.desktop,hplip.desktop,suspend-then-hibernate.desktop,reboot-to-uefi.desktop,system-config-printer.desktop,cups.desktop,lstopo.desktop,fish.desktop,avahi-discover.desktop,yad-settings.desktop,nm-connection-editor.desktop,kvantummanager.desktop,qv4l2.desktop,qvidcap.desktop,bssh.desktop,bvnc.desktop,lftp.desktop,elinks.desktop,org.kde.plasmaengineexplorer.desktop,org.kde.plasma.lookandfeelexplorer.desktop,org.kde.plasma.themeexplorer.desktop,assistant.desktop,designer.desktop,linguist.desktop,qdbusviewer.desktop
+useCustomButtonImage=true
 
 [Containments][2][Applets][38][Shortcuts]
 global=Alt+F1
