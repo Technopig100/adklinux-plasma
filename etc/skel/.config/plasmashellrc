@@ -1,8 +1,13 @@
+[KFileDialog Settings]
+Recent Files[$e]=distributor-logo-adklinux(White).svg,file:///etc/xdg/adk-linux/distributor-logo-adklinux(White).svg
+Recent URLs[$e]=file:///,file:$HOME/,file:///etc/xdg/adk-linux/
+detailViewIconSize=16
+
 [PlasmaViews][Panel 2][Defaults]
-thickness=54
+thickness=42
 
 [PlasmaViews][Panel 2][Horizontal1600]
-thickness=54
+thickness=42
 
 [ScreenConnectors]
 
