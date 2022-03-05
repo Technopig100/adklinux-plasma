@@ -1,1 +1,1 @@
-# ADKLinux desktop settings plasma
+# ADK-Linux desktop settings plasma
