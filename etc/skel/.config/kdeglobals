@@ -115,7 +115,7 @@ toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
 Theme=ADK-Dark
 
 [KDE]
-ColorScheme=Breeze
+ColorScheme=AritimDark
 LookAndFeelPackage=Aritim-Dark
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
