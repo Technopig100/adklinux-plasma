@@ -55,6 +55,21 @@ plugin=org.kde.plasma.panelspacer
 [Containments][2][Applets][42][Configuration][General]
 length=594
 
+[Containments][2][Applets][44]
+immutability=1
+plugin=org.kde.plasma.lock_logout
+
+[Containments][2][Applets][44][Configuration][ConfigDialog]
+DialogHeight=829
+DialogWidth=792
+
+[Containments][2][Applets][44][Configuration][General]
+show_lockScreen=false
+
+[Containments][2][Applets][45]
+immutability=1
+plugin=org.kde.plasma.weather
+
 [Containments][2][Applets][5]
 immutability=1
 plugin=org.kde.plasma.taskmanager
@@ -95,7 +110,7 @@ DialogWidth=1600
 PreloadWeight=0
 
 [Containments][2][General]
-AppletOrder=38;5;41;8;42;4;6;9
+AppletOrder=38;5;41;8;42;4;45;6;44;9
 
 [Containments][22]
 ItemGeometriesHorizontal=
