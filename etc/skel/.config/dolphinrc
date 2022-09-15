@@ -5,6 +5,7 @@ update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
 
 [General]
 Version=202
+ViewPropsTimestamp=2022,9,15,8,5,23.081
 
 [KFileDialog Settings]
 Places Icons Auto-resize=false
