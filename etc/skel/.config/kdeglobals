@@ -106,6 +106,8 @@ Theme=adk-dark
 
 [KDE]
 LookAndFeelPackage=Aritim-Dark
+ShowDeleteCommand=false
+SingleClick=false
 
 [WM]
 activeBackground=20,26,33,216
