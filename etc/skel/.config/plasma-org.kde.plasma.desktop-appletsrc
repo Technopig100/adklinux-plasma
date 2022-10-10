@@ -59,7 +59,7 @@ DialogWidth=720
 [Containments][2][Applets][23][Configuration][General]
 customButtonImage=distributor-logo-adklinux.scale(White)
 favoritesPortedToKAstats=true
-hiddenApplications=stoken-gui.desktop,stoken-gui-small.desktop,cups.desktop,lstopo.desktop,avahi-discover.desktop,yad-settings.desktop,qt5ct.desktop,nm-connection-editor.desktop,qv4l2.desktop,qvidcap.desktop,bssh.desktop,bvnc.desktop,elinks.desktop,lftp.desktop,org.kde.plasmaengineexplorer.desktop,org.kde.plasma.lookandfeelexplorer.desktop,org.kde.plasma.themeexplorer.desktop,assistant.desktop,designer.desktop,linguist.desktop,qdbusviewer.desktop
+hiddenApplications=stoken-gui.desktop,stoken-gui-small.desktop,cups.desktop,lstopo.desktop,avahi-discover.desktop,yad-settings.desktop,qt5ct.desktop,nm-connection-editor.desktop,qv4l2.desktop,qvidcap.desktop,bssh.desktop,bvnc.desktop,elinks.desktop,lftp.desktop,org.kde.plasmaengineexplorer.desktop,org.kde.plasma.lookandfeelexplorer.desktop,org.kde.plasma.themeexplorer.desktop,assistant.desktop,designer.desktop,linguist.desktop,qdbusviewer.desktop,system-config-printer.desktop,org.kde.plasma.emojier.desktop,hp-uiscan.desktop,hplip.desktop
 useCustomButtonImage=true
 
 [Containments][2][Applets][23][Shortcuts]
