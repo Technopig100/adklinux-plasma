@@ -1,4 +1,4 @@
- [Desktop Action updates]
+[Desktop Action updates]
 Exec=pamac-manager --updates
 Name=Software Update
 Name[af]=Sagtewarebywerking
@@ -137,7 +137,7 @@ Comment[zh_TW]=加入或移除系統上安裝的軟體
 DBusActivatable=true
 Exec=pamac-manager %U
 GenericName[en_US]=
-GenericName=
+GenericName=Add/Remove Software
 Icon=system-software-install
 Keywords[af]=bywerkings;opgradeer;bronne;lêerstoor;voorkeure;installeer;verwyder;program;sagteware;toep;winkel;
 Keywords[ar]=تحديثات;ترقيات;مصادر;مستودعات;تفضيلات;تنصيب;إزالة;برنامج;برمجية;تطبيق;سوق;تحديث;ترقية;مصدر;مستودع;
@@ -197,8 +197,8 @@ Keywords[zh_CN]=Updates;Upgrade;Sources;Repositories;Preferences;Install;Uninsta
 Keywords[zh_HK]=Updates;Upgrade;Sources;Repositories;Preferences;Install;Uninstall;Program;Software;App;Store;;更新;升級;來源;套件庫;軟件庫;倉庫;偏好設定;安裝;解除安裝;程式;軟件;應用;商店;
 Keywords[zh_TW]=Updates;Upgrade;Sources;Repositories;Preferences;Install;Uninstall;Program;Software;App;St
 MimeType=application/vnd.snap;application/vnd.flatpak.repo;application/vnd.flatpak.ref;application/vnd.flatpak;
-Name[en_US]=Pamac Add/Remove Software
-Name=Pamac Add/Remove Software
+Name[en_US]=Pamac
+Name=Pamac
 Name[af]=Voeg by/verwyder sagteware
 Name[ar]=إضافة وإزالة البرمجيات
 Name[as]=চালনাজ্ঞান যোগ কৰক/আঁতৰাই দিয়ক
@@ -264,6 +264,7 @@ Name[vi]=Thêm/Gỡ phần mềm
 Name[zh_CN]=添加/删除软件
 Name[zh_HK]=加入或移除軟件
 Name[zh_TW]=加入或移除軟體
+NoDisplay=false
 Path=
 StartupNotify=true
 StartupWMClass=pamac-manager
