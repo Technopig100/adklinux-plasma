@@ -60,7 +60,7 @@ DialogWidth=720
 [Containments][2][Applets][23][Configuration][General]
 customButtonImage=distributor-logo-adklinux.scale(White)
 favoritesPortedToKAstats=true
-hiddenApplications=org.kde.plasma.emojier.desktop,stoken-gui-small.desktop,stoken-gui.desktop,avahi-discover.desktop,lstopo.desktop,cups.desktop,system-config-printer.desktop,nm-connection-editor.desktop,pavucontrol.desktop,qt5ct.desktop,qv4l2.desktop,qvidcap.desktop,bssh.desktop,bvnc.desktop,assistant.desktop,designer.desktop,linguist.desktop,qdbusviewer.desktop,menulibre.desktop,org.kde.kmenuedit.desktop
+hiddenApplications=qv4l2.desktop,qvidcap.desktop,lftp.desktop
 useCustomButtonImage=true
 
 [Containments][2][Applets][23][Shortcuts]
